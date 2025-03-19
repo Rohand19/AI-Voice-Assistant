@@ -147,11 +147,6 @@ docker system prune -f  # Clean up unused images and containers
 - ✅ Implement speech-to-text support.
 - ✅ Improve response accuracy with fine-tuned models.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
